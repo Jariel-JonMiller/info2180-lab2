@@ -1,0 +1,63 @@
+header {
+    border: 2px double red;
+    width: auto;
+    background-color: rgb(131, 175, 241);
+}
+
+img {
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    margin-top: 5%;
+}
+
+center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    }
+
+aside {
+    background-color: blanchedalmond;
+    float: right;
+    /*margin: 0 1.5%;*/
+    width: 25%;
+}
+
+section {
+    float: left;
+    margin: 0 5%;
+    width: 63%;
+}
+
+h2, h3 {
+    left: 50px;
+    /*margin-right: 0 100%;*/
+    position: relative;
+    /*top: 20px;*/
+}
+
+p {
+    
+    margin: 4%;
+    position: relative ;
+    /*top: 20px;*/
+}
+
+article {
+    
+    margin-left: 0 0.5%;
+    position: relative;
+    top: 20px;
+}
+
+footer {
+    clear: both;
+    /*left: 50px;*/
+    background-color: aquamarine;
+    color: black;
+    margin: 0 5%;
+    position: relative;
+    padding: 0.5px;
+}
